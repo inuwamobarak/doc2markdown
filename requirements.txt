@@ -1,0 +1,10 @@
+django
+djangorestframework
+django-ninja
+pymupdf
+python-Levenshtein
+nltk
+transformers
+torch
+torchvision
+torchaudio
